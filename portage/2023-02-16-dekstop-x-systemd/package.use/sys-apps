@@ -1,0 +1,19 @@
+sys-apps/pcsc-lite -libusb
+sys-apps/firejail X apparmor chroot contrib dbusproxy globalcfg network private-home suid userns whitelist
+sys-apps/systemd acl apparmor cryptsetup curl dns-over-tls elfutils gcrypt gnuefi homed hwdb idn importd kmon lz4 lzma nat pam pcre pkcs11 policykit pwquality qrcode repart seccomp static-libs sysv-utils xkb zstd
+sys-apps/dbus user-session
+sys-apps/coreutils caps kill
+
+sys-apps/acl                    static-libs
+sys-apps/attr                   static-libs
+sys-apps/file                   static-libs
+sys-apps/lm-sensors                 abi_x86_32
+sys-apps/systemd                    abi_x86_32
+sys-apps/util-linux                   caps tty-helpers
+sys-apps/shadow -su
+sys-apps/utils-linux su
+
+
+#temp
+#sys-apps/pciutils -udev
+#sys-apps/hwloc -video_cards_nvidia

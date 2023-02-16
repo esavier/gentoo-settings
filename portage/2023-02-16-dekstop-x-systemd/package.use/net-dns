@@ -1,0 +1,3 @@
+net-dns/avahi      abi_x86_32 -gtk
+net-dns/c-ares                    abi_x86_32
+net-dns/dnsmasq                   script

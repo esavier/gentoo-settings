@@ -1,0 +1,4 @@
+#x11-drivers/nvidia-drivers  X dist-kernel driver kms static-libs tools uvm
+x11-drivers/nvidia-drivers  X driver kms static-libs tools uvm abi_x86_32 persistenced
+
+#x11-drivers/nvidia-drivers -tools

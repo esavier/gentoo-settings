@@ -1,0 +1,6 @@
+#dev-qt/qtwidgets X gtk png
+dev-qt/qtcore                  icu
+dev-qt/qtgui                   egl
+dev-qt/qtmultimedia                   widgets qlm
+dev-qt/qtwebchannel                   qml
+dev-qt/qtwebengine                   widgets

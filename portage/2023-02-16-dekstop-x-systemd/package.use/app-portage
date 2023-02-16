@@ -1,0 +1,3 @@
+#app-portage/layman cvs darcs g-sorcery mercurial subversion
+app-portage/layman cvs
+app-portage/repoman python_targets_python3_10 -python_targets_python3_9

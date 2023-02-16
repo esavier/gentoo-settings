@@ -1,0 +1,6 @@
+app-crypt/gnupg  bzip2 readline scd-shared-access smartcard ssl tools usb
+app-crypt/pinentry caps ncurses qt5
+#app-crypt/pinentry caps emacs ncurses qt5
+app-crypt/gpgme python qt5
+app-crypt/libmd abi_x86_32
+app-crypt/p11-kit abi_x86_32

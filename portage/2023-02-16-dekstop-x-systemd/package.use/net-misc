@@ -1,0 +1,6 @@
+#net-misc/openssh -bindist
+net-misc/aria2 adns bittorent gnutls jemalloc libuv libxml2 metalink nettle nls scripts sqlite ssh ssl xmlrpc
+net-misc/spice-gtk      usbredir
+net-misc/curl gnutls mbedtls static-libs brotli 
+net-misc/tigervnc -server xinerama -opengl
+net-misc/socat tcp ssl

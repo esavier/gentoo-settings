@@ -1,0 +1,3 @@
+#media-tv/xawtv X aalib alsa dv opengl xv motif
+
+#media-tv/v4l-utils opengl qt5 udev bpf 

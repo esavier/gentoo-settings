@@ -1,0 +1,33 @@
+media-libs/alsa-lib            abi_x86_32 python alisp
+media-libs/alsa-oss            static-libs
+media-libs/flac                abi_x86_32
+media-libs/freetype            -infinality harfbuzz
+media-libs/gegl                cairo
+media-libs/glu                 abi_x86_32
+media-libs/harfbuzz            icu
+media-libs/libepoxy            abi_x86_32
+media-libs/libglvnd            abi_x86_32
+media-libs/libjpeg-turbo       abi_x86_32
+media-libs/libogg              abi_x86_32 -apng
+media-libs/libsdl2             abi_x86_32 opengl X aalib alsa dga fbcon nas opengl oss pulseaudio sound xinerama xv
+media-libs/libsndfile          abi_x86_32 minimal
+media-libs/libvorbis           abi_x86_32
+media-libs/libvpx              postproc
+media-libs/mlt                 jack frei0r qt5 fftw opengl ffmpeg xml sdl
+media-libs/opencv              contrib contribdnn -examples -gtk3 gt5
+media-libs/opus                abi_x86_32 custom-modes
+media-libs/rubberband          ladspa
+media-libs/speexdsp            abi_x86_32
+media-libs/nas                 abi_x86_32
+media-libs/libsamplerate       abi_x86_32
+media-libs/coin		       doc
+media-libs/quarter	       doc
+media-libs/lib3mf	       -system-act
+media-libs/libplacebo          -shaderc
+media-libs/libcaca             -opengl
+media-libs/opencolorio -opengl
+media-libs/mesa  opencl osmesa vaapi vdpau vulkan vulkan-overlay xa zink
+
+#temporary
+#media-libs/freetype -harfbuzz
+#media-libs/mesa -vaapi

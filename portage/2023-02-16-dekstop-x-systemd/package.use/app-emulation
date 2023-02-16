@@ -1,0 +1,6 @@
+
+
+app-emulation/libvirt apparmor caps firewalld fuse glusterfs libssh libvirtd lvm lxc nfs parted pcap policykit qemu udev virt-network bash-completion -virtualbox -xen -zfs
+app-emulation/qemu aio alsa bzip caps capstone curl fdt glusterfs io-uring jemalloc jpeg lzo ncurses nfs oss opengl  png pulseaudio qemu_softmmu_targets_arm qemu_softmmu_targets_avr qemu_softmmu_targets_aarch64 qemu_softmmu_targets_x86_64 qemu_user_targets_aarch64  qemu_user_targets_arm qemu_user_targets_x86_64 spice usb usbredir sdl sdl-image static-user -plugins
+app-emulation/spice -smartcard
+app-emulation/virt-manager gtk

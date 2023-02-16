@@ -1,0 +1,2 @@
+#net-vpn/tinc lzo ncurses readline ssl uml upnp zlib -vde
+net-vpn/tor tor-hardening

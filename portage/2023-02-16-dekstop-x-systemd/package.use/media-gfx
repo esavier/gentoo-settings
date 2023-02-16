@@ -1,0 +1,4 @@
+media-gfx/nomacs -tiff -raw -plugins opencv
+#media-gfx/nomacs -tiff -raw opencv
+media-gfx/freecad -robot -path
+media-gfx/xsane png lcms jpeg

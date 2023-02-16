@@ -1,0 +1,3 @@
+dev-haskell/binary -profile
+dev-haskell/hashable -profile
+dev-haskell/transformers-compat -profile

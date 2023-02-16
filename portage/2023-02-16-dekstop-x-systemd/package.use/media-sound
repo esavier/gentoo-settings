@@ -1,0 +1,9 @@
+#media-sound/pulseaudio-modules-bt fdk ffmpeg ldac native-headset -ofono-headset
+#media-sound/pulseaudio equalizer gconf gtk jack libsamplerate native-headset ofono-headset sox
+media-sound/pulseaudio equalizer gconf gtk jack sox -jack -ssl systemd -bluetooth doc -gtk abi_x86_32
+media-sound/deadbeef aac alsa converter cover dts ffmpeg flac hotkeys lastfm mp3 musepack nls notify nullout opus oss pulseaudio shellexec supereq threads vorbis wavpack
+media-sound/audacity ffmpeg id3tag  ogg oss portmidi portsmf sbsms twolame vamp vorbis vst ladspa lv2 mad flac alsa
+media-sound/moc aac alsa cache curl ffmpeg flac libsamplerate mad magic modplug vorbis wavpack
+media-sound/mumble rnnoise speech
+media-sound/alsa-utils libsamplerate ncurses nls
+media-sound/jack2 abi_x86_32

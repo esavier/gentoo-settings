@@ -1,0 +1,11 @@
+virtual/glu                   abi_x86_32
+virtual/jpeg                  abi_x86_32
+virtual/libcrypt              abi_x86_32
+virtual/libintl               abi_x86_32
+virtual/opengl                abi_x86_32
+virtual/ruby-ssl                    ruby_targets_ruby27
+virtual/ruby-ssl                    ruby_targets_ruby30
+virtual/rubygems                    ruby_targets_ruby27
+virtual/rubygems                    ruby_targets_ruby30
+virtual/rust                  abi_x86_32
+virtual/jack                  abi_x86_32

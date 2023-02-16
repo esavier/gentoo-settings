@@ -1,0 +1,3 @@
+app-containers/lxc io-uring verify-sig
+app-containers/lxd verify-sig
+app-containers/lxc-templates verify-sig

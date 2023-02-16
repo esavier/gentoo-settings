@@ -1,0 +1,5 @@
+net-libs/nodejs                   -lto inspector
+net-libs/libasyncns               abi_x86_32
+net-libs/libssh2                  abi_x86_32
+net-libs/nghttp2                  abi_x86_32
+net-libs/zeromq                   drafts

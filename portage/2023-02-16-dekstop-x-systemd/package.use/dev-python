@@ -1,0 +1,20 @@
+dev-python/PyQt5 network printsupport gui
+dev-python/appdirs python_targets_python3_10
+dev-python/certifi python_targets_python3_10
+dev-python/flit_core python_targets_python3_10
+dev-python/installer python_targets_python3_10
+dev-python/jaraco-context python_targets_python3_10
+dev-python/jaraco-functools python_targets_python3_10
+dev-python/jaraco-text python_targets_python3_10
+dev-python/more-itertools python_targets_python3_10
+dev-python/ordered-set python_targets_python3_10
+dev-python/packaging python_targets_python3_10
+dev-python/pyparsing python_targets_python3_10
+
+dev-python/PyQt5                    widgets declarative svg webchannel
+dev-python/setuptools                 python_targets_python3_10
+dev-python/setuptools_scm                   python_targets_python3_10
+dev-python/tomli                    python_targets_python3_10
+dev-python/wheel               python_targets_python3_10
+dev-python/numpy lapack
+dev-python/nspektr python_targets_python3_10

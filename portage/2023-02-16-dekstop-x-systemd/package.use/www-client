@@ -1,0 +1,3 @@
+#www-client/firefox clang dbus geckodriver gmp-autocomplete hardened jack lto openh264 pgo pulseaudio wifi
+www-client/librewolf geckodriver
+www-client/firefox geckodriver pgo hardened sndio

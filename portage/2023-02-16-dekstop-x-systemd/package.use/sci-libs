@@ -1,0 +1,2 @@
+sci-libs/hdf5 -threads
+sci-libs/orocos_kdl -models -examples

@@ -1,0 +1,11 @@
+# move x11-libs/libva media-libs/libva
+media-libs/libva               opengl vdpau
+x11-libs/libva-vdpau-driver  opengl
+x11-libs/gtk+                abi_x86_32 cups
+x11-libs/gtk		     cups
+x11-libs/libdrm              libkms
+x11-libs/libxkbcommon        abi_x86_32
+x11-libs/libXtst             abi_x86_32
+x11-libs/libICE              abi_x86_32
+x11-libs/libSM               abi_x86_32
+x11-libs/libXt               abi_x86_32

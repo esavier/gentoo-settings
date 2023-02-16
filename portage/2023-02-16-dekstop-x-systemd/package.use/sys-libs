@@ -1,0 +1,7 @@
+sys-libs/zlib static-libs minizip
+sys-libs/gdbm                   abi_x86_32
+sys-libs/glibc                  caps -clone3 splitdebug
+sys-libs/libcap                 abi_x86_32
+sys-libs/libxcrypt                    abi_x86_32
+sys-libs/ncurses                    static-libs
+sys-libs/pam                    abi_x86_32

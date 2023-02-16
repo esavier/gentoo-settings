@@ -1,0 +1,14 @@
+#dev-libs/libbytesize python
+dev-libs/libbytesize tools python
+dev-libs/glib static-libs
+dev-libs/gmp static-libs
+dev-libs/libbsd abi_x86_32
+dev-libs/libdbusmenu gtk3
+dev-libs/libev abi_x86_32
+dev-libs/libevent abi_x86_32
+dev-libs/libgcrypt abi_x86_32
+dev-libs/libgpg abi_x86_32
+dev-libs/libpcre static-libs
+dev-libs/libxml2 icu
+dev-libs/libgpg-error abi_x86_32
+dev-libs/boost abi_x86_32 bzip2 context icu lzma mpi nls -python -python_targets_python3_10 -numpy tools zlib zstd

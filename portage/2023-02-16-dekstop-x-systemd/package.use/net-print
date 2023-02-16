@@ -1,0 +1,3 @@
+net-print/cups zeroconf threads systemd usb 
+net-print/hplip scanner hpijs
+net-print/hplip-plugin orblite

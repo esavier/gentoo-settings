@@ -1,0 +1,4 @@
+app-text/ghostscript-gpl cups
+app-text/poppler cairo
+app-text/poppler qt5
+app-text/xmlto text

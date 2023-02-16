@@ -1,0 +1,4 @@
+#app-editors/emacs acl alsa cairo gconf gfile gif gmp gselttings gtk -gui gzip-el harfbuzz imagemagic inotify jpeg json libxml2 motif png sound source ssl ssl svg systemd threads tiff wide-int xft xpm zlib
+#app-editors/emacs acl alsa gconf gfile gif gmp gselttings -gui gzip-el harfbuzz inotify json sound source ssl ssl svg systemd threads tiff wide-int xft xpm zlib
+# libxml2 needed for makrdown live preview
+app-editors/emacs acl alsa dynamic-loading gfile gconf gmp gpm gsettings -gui harfbuzz -imagemagic -jpeg inotify json lcms mailutils png sound source ssl threads -tiff xft -xpm zlib libxml2

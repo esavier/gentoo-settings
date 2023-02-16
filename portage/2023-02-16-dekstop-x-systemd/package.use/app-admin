@@ -1,0 +1,5 @@
+app-admin/conky ical imlib iostats irc math moc mpd truetype weather-metar xinerama xmms2
+app-admin/doas pam persist
+app-admin/conky X apcupsd cmus cmus curl hddtemp ical iconv imlib iostats ipv6 irc math moc mpd nano-syntax ncurses nvidia portmon pulseaudio systemd truetype weather-metar wifi xinerama xmms2
+app-admin/keepassxc autotype browser keeshare network yubikey
+app-admin/syslog-ng caps

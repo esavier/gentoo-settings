@@ -1,0 +1,3 @@
+net-analyzer/netcat static
+net-analyzer/nmap ipv6 libssh2 ncat nping nbse ssk verify-sig
+

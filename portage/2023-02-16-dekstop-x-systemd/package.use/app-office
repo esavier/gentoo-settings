@@ -1,0 +1,5 @@
+app-office/gnumeric libgda perl
+app-office/glabels barcode
+app-office/glabels-qt barcode
+
+app-office/libreoffice -bluetooth postgres 

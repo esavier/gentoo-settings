@@ -1,0 +1,3 @@
+dev-lang/python tk
+dev-lang/rust abi_x86_32 rustfmt nightly miri debug
+dev-lang/rust-bin clippy doc rust-analyzer rust-src rustfmt verify-sig
