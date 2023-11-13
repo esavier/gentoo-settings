@@ -1,0 +1,3 @@
+sys-apps/pcsc-lite -libusb udev
+sys-apps/pcsc-tools gui network-cron
+

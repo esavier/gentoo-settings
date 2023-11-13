@@ -1,0 +1,355 @@
+# required by dev-python/requests-2.31.0::gentoo
+# required by net-vpn/protonvpn-cli-2.2.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/urllib3-2.0.4 python_targets_python3_10
+# required by dev-python/certifi-3021.3.16-r3::gentoo
+# required by dev-python/requests-2.31.0::gentoo
+# required by net-vpn/protonvpn-cli-2.2.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/setuptools-68.0.0-r1 python_targets_python3_10
+# required by sys-apps/systemd-253.7::gentoo[openssl]
+# required by media-gfx/sane-backends-1.2.1::gentoo[systemd]
+# required by media-gfx/xsane-0.999-r5::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/openssl-3.1.1-r2 abi_x86_32
+# required by media-gfx/krita-5.1.5::gentoo[python_single_target_python3_11]
+# required by @selected
+# required by @world (argument)
+>=dev-python/PyQt5-5.15.9-r1 declarative widgets gui
+# required by dev-python/setuptools-68.0.0-r1::gentoo
+# required by dev-python/mako-1.2.4::gentoo
+# required by media-libs/mesa-23.1.4::gentoo
+# required by gui-libs/gtk-4.10.4::gentoo[X]
+# required by gui-libs/vte-common-0.72.2::gentoo
+# required by x11-libs/vte-0.72.2::gentoo
+# required by net-misc/remmina-1.4.31::gentoo[ssh]
+# required by @selected
+# required by @world (argument)
+>=dev-python/more-itertools-10.0.0 python_targets_python3_10
+# required by dev-python/setuptools-68.0.0-r1::gentoo
+# required by dev-python/mako-1.2.4::gentoo
+# required by media-libs/mesa-23.1.4::gentoo
+# required by gui-libs/gtk-4.10.4::gentoo[X]
+# required by gui-libs/vte-common-0.72.2::gentoo
+# required by x11-libs/vte-0.72.2::gentoo
+# required by net-misc/remmina-1.4.31::gentoo[ssh]
+# required by @selected
+# required by @world (argument)
+>=dev-python/platformdirs-3.9.1 python_targets_python3_10
+# required by net-vpn/protonvpn-cli-2.2.11-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/wheel-0.41.0 python_targets_python3_10
+# required by dev-python/hatchling-1.18.0::gentoo[-test]
+# required by dev-python/termcolor-2.3.0::gentoo
+# required by app-portage/pfl-3.2.1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/editables-0.5 python_targets_python3_10
+# required by games-util/steam-client-meta-0-r20230615::steam-overlay[video_cards_nvidia]
+# required by games-util/steam-meta-0-r20220320::steam-overlay
+# required by @selected
+# required by @world (argument)
+>=x11-drivers/nvidia-drivers-535.86.05 abi_x86_32
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-client-meta-0-r20230615::steam-overlay
+# required by games-util/steam-meta-0-r20220320::steam-overlay
+# required by @selected
+# required by @world (argument)
+>=media-libs/mesa-23.1.4 abi_x86_32
+# required by app-office/libreoffice-bin-7.5.3.2::gentoo
+# required by libreoffice-bin (argument)
+>=media-libs/harfbuzz-8.0.1 icu
+# required by app-office/libreoffice-bin-7.5.3.2::gentoo
+# required by libreoffice-bin (argument)
+>=dev-libs/xmlsec-1.3.1 nss
+# required by dev-python/reportlab-4.0.4::gentoo
+# required by net-print/hplip-3.23.5::gentoo[python_single_target_python3_11,scanner,-minimal]
+# required by @selected
+# required by @world (argument)
+>=dev-python/pillow-10.0.0 tiff truetype
+# required by dev-python/packaging-23.1::gentoo
+# required by dev-python/sphinx-7.1.2::gentoo
+# required by sys-fs/btrfs-progs-6.3.3::gentoo[man]
+# required by @selected
+# required by @world (argument)
+>=dev-python/pyparsing-3.1.1 python_targets_python3_10
+# required by dev-python/hatchling-1.18.0::gentoo[-test]
+# required by dev-python/service-identity-23.1.0::gentoo
+# required by dev-python/twisted-22.10.0-r3::gentoo[ssl]
+# required by mail-client/alot-0.10::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/pathspec-0.11.2 python_targets_python3_10
+# required by dev-libs/libevent-2.1.12-r1::gentoo
+# required by www-client/links-2.29::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-libs/openssl-1.1.1v abi_x86_32
+# required by dev-qt/qtwayland-5.15.10-r1::gentoo
+# required by kde-plasma/layer-shell-qt-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/breeze-5.27.7::gentoo
+# required by kde-plasma/kwin-5.27.7::gentoo
+>=dev-qt/qtgui-5.15.10 egl
+# required by kde-frameworks/plasma-5.108.0::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/breeze-5.27.7::gentoo
+# required by kde-plasma/kwin-5.27.7::gentoo
+>=kde-frameworks/kconfig-5.108.0 qml
+# required by kde-plasma/kwin-5.27.7::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=media-libs/mesa-23.1.4 wayland
+# required by kde-plasma/kwin-5.27.7::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=kde-frameworks/kitemmodels-5.108.0 qml
+# required by dev-python/setuptools-68.0.0-r1::gentoo
+# required by media-gfx/ueberzug-18.2.2::gentoo
+# required by net-misc/ytfzf-2.6.0::gentoo[-minimal,thumbnails]
+# required by @selected
+# required by @world (argument)
+>=dev-python/nspektr-0.5.0 python_targets_python3_10
+# required by dev-python/nspektr-0.5.0::gentoo
+# required by dev-python/setuptools-68.0.0-r1::gentoo
+# required by media-gfx/ueberzug-18.2.2::gentoo
+# required by net-misc/ytfzf-2.6.0::gentoo[-minimal,thumbnails]
+# required by @selected
+# required by @world (argument)
+>=dev-python/jaraco-functools-3.8.1 python_targets_python3_10
+# required by dev-python/hatchling-1.18.0::gentoo[-test]
+# required by dev-python/referencing-0.30.2::gentoo
+# required by dev-python/jsonschema-4.19.0::gentoo
+# required by dev-python/poetry-core-1.6.1::gentoo[-test]
+# required by dev-python/rdflib-7.0.0::gentoo
+# required by media-libs/lv2-1.18.10::gentoo[python_single_target_python3_11]
+# required by media-video/ffmpeg-6.0-r6::gentoo[lv2]
+# required by media-video/mpv-0.36.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/trove-classifiers-2023.8.7 python_targets_python3_10
+# required by dev-libs/glib-2.76.4::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-apps/util-linux-2.39.1-r1 abi_x86_32 caps
+# required by app-text/evince-44.3::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-text/poppler-23.08.0 qt5 cairo
+# required by kde-frameworks/kcoreaddons-5.108.0-r1::gentoo
+# required by kde-plasma/kwin-5.27.7-r1::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=dev-qt/qtcore-5.15.10-r1 icu
+# required by games-util/steam-client-meta-0-r20230807::steam-overlay
+# required by games-util/steam-meta-0-r20220320::steam-overlay
+# required by @selected
+# required by @world (argument)
+>=sys-libs/libudev-compat-186-r1 abi_x86_32
+# required by sys-libs/libudev-compat-186-r1::gentoo
+# required by games-util/steam-client-meta-0-r20230807::steam-overlay
+# required by games-util/steam-meta-0-r20220320::steam-overlay
+# required by @selected
+# required by @world (argument)
+>=virtual/libudev-251-r1 abi_x86_32
+# required by virtual/libudev-251-r1::gentoo
+# required by sys-libs/libudev-compat-186-r1::gentoo
+# required by games-util/steam-client-meta-0-r20230807::steam-overlay
+# required by games-util/steam-meta-0-r20220320::steam-overlay
+# required by @selected
+# required by @world (argument)
+>=sys-apps/systemd-254-r2 abi_x86_32
+# required by sys-apps/systemd-254-r2::gentoo[gcrypt]
+# required by virtual/libudev-251-r1::gentoo
+# required by dev-qt/qtgui-5.15.10-r1::gentoo[udev]
+# required by dev-qt/qtwayland-5.15.10-r2::gentoo[X]
+# required by kde-plasma/kwin-5.27.7-r1::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=dev-libs/libgcrypt-1.10.2 abi_x86_32
+# required by sys-apps/systemd-254-r2::gentoo[lz4]
+# required by virtual/libudev-251-r1::gentoo
+# required by dev-qt/qtgui-5.15.10-r1::gentoo[udev]
+# required by dev-qt/qtwayland-5.15.10-r2::gentoo[X]
+# required by kde-plasma/kwin-5.27.7-r1::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=app-arch/lz4-1.9.4 abi_x86_32
+# required by sys-apps/systemd-254-r2::gentoo[lzma]
+# required by virtual/libudev-251-r1::gentoo
+# required by dev-qt/qtgui-5.15.10-r1::gentoo[udev]
+# required by dev-qt/qtwayland-5.15.10-r2::gentoo[X]
+# required by kde-plasma/kwin-5.27.7-r1::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=app-arch/xz-utils-5.4.4 abi_x86_32
+# required by dev-libs/libgcrypt-1.10.2::gentoo
+# required by sys-apps/systemd-254-r2::gentoo[gcrypt]
+# required by virtual/libudev-251-r1::gentoo
+# required by dev-qt/qtgui-5.15.10-r1::gentoo[udev]
+# required by dev-qt/qtwayland-5.15.10-r2::gentoo[X]
+# required by kde-plasma/kwin-5.27.7-r1::gentoo
+# required by kde-plasma/libkworkspace-5.27.7::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.7::gentoo
+# required by kde-plasma/kscreenlocker-5.27.7::gentoo
+>=dev-libs/libgpg-error-1.47 abi_x86_32
+# required by net-dns/avahi-0.8-r7::gentoo
+# required by net-print/hplip-3.23.5::gentoo[snmp,-minimal]
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-libs/libevent-2.1.12-r1 abi_x86_32
+# required by dev-python/pyparsing-3.1.1::gentoo
+# required by dev-python/translate-toolkit-3.10.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/gpep517-15 python_targets_python3_10
+# required by dev-python/hatchling-1.18.0::gentoo[-test]
+# required by dev-python/scikit-build-0.17.6::gentoo
+# required by dev-python/rapidfuzz-3.2.0::gentoo
+# required by dev-python/Levenshtein-0.21.1::gentoo
+# required by dev-python/translate-toolkit-3.10.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/pluggy-1.3.0 python_targets_python3_10
+# required by media-libs/mesa-23.2.0_rc2::gentoo
+# required by app-office/libreoffice-bin-7.5.5.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libdrm-2.4.116 abi_x86_32
+# required by media-libs/mesa-23.2.0_rc2::gentoo[X]
+# required by app-office/libreoffice-bin-7.5.5.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxcb-1.16 abi_x86_32
+# required by media-libs/mesa-23.2.0_rc2::gentoo[X]
+# required by app-office/libreoffice-bin-7.5.5.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/xcb-util-keysyms-0.4.1 abi_x86_32
+# required by media-gfx/graphviz-8.1.0::gentoo
+# required by media-gfx/plantuml-1.2022.7::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/gd-2.3.3-r4 truetype fontconfig
+# required by kde-apps/kleopatra-23.08.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-crypt/gpgme-1.22.0 python qt5
+# required by dev-embedded/arduino-1.8.19::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-util/astyle-3.4.6 java
+# required by app-containers/docker-24.0.5::gentoo[device-mapper]
+# required by @selected
+# required by @world (argument)
+>=sys-fs/lvm2-2.03.22 thin
+# required by dev-python/nspektr-0.5.0::gentoo
+# required by dev-python/setuptools-68.2.2::gentoo
+# required by dev-python/mako-1.2.4::gentoo
+# required by media-libs/mesa-23.2.1::gentoo
+# required by app-office/libreoffice-bin-7.5.6.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=dev-python/packaging-23.2 python_targets_python3_10
+# required by dev-python/requests-2.31.0::gentoo
+# required by app-emulation/virt-manager-4.1.0::gentoo[python_single_target_python3_11,-test]
+# required by @selected
+# required by @world (argument)
+>=dev-python/certifi-3021.3.16-r4 python_targets_python3_10
+# required by dev-python/pluggy-1.3.0::gentoo
+# required by dev-python/hatchling-1.18.0::gentoo[-test]
+# required by dev-python/termcolor-2.3.0::gentoo
+# required by app-portage/pfl-3.2.1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/setuptools-scm-8.0.4 python_targets_python3_10
+# required by dev-python/jaraco-functools-3.9.0::gentoo[python_targets_python3_10,-python_targets_pypy3]
+# required by dev-python/cheroot-10.0.0::gentoo
+# required by dev-python/translate-toolkit-3.10.1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-python/typing-extensions-4.8.0 python_targets_python3_10
+# required by media-libs/mesa-23.2.1::gentoo
+# required by app-office/libreoffice-bin-7.5.6.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libglvnd-1.7.0 abi_x86_32
+# required by sys-devel/llvm-16.0.6::gentoo
+# required by media-libs/mesa-23.2.1::gentoo[llvm,-opencl]
+# required by app-office/libreoffice-bin-7.5.6.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=sys-libs/zlib-1.3-r1 abi_x86_32 minizip
+# required by x11-libs/libXxf86vm-1.1.5::gentoo
+# required by x11-drivers/nvidia-drivers-535.113.01::gentoo[tools]
+# required by sys-apps/hwloc-2.9.3::gentoo[video_cards_nvidia]
+# required by net-wireless/aircrack-ng-1.7-r3::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libX11-1.8.7 abi_x86_32
+# required by media-libs/mesa-23.2.1::gentoo[X]
+# required by app-office/libreoffice-bin-7.5.6.2::gentoo[-kde]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXrandr-1.5.4 abi_x86_32
+# required by dev-libs/wayland-1.22.0::gentoo
+# required by kde-plasma/layer-shell-qt-5.27.8::gentoo
+# required by kde-plasma/kscreenlocker-5.27.8-r1::gentoo
+# required by kde-plasma/libkworkspace-5.27.8::gentoo
+# required by kde-plasma/kde-cli-tools-5.27.8::gentoo
+# required by kde-plasma/breeze-5.27.8-r1::gentoo
+# required by kde-plasma/kwin-5.27.8-r3::gentoo
+>=dev-libs/libffi-3.4.4-r2 abi_x86_32
+# required by dev-python/requests-2.31.0::gentoo
+# required by app-emulation/virt-manager-4.1.0::gentoo[python_single_target_python3_11,-test]
+# required by @selected
+# required by @world (argument)
+>=dev-python/charset-normalizer-3.3.1 python_targets_python3_10
+# required by net-dns/avahi-0.8-r7::gentoo
+# required by net-print/hplip-3.23.8::gentoo[snmp,-minimal]
+# required by net-print/hplip-plugin-3.23.8::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/glib-2.78.0 abi_x86_32
+# required by net-dns/avahi-0.8-r7::gentoo[dbus]
+# required by net-print/hplip-3.23.8::gentoo[snmp,-minimal]
+# required by net-print/hplip-plugin-3.23.8::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-apps/dbus-1.15.8 abi_x86_32
+# required by app-emulation/libvirt-9.6.0::gentoo[virt-network]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-4.1.0::gentoo[-test]
+# required by @selected
+# required by @world (argument)
+>=net-dns/dnsmasq-2.89-r1 script
+# required by dev-python/zstandard-0.21.0::gentoo[python_targets_python3_10,python_targets_python3_11,-python_targets_python3_12,-test]
+# required by dev-python/urllib3-2.0.7::gentoo[zstd]
+# required by app-admin/system-config-printer-1.5.18-r1::gentoo[python_single_target_python3_11]
+# required by kde-apps/print-manager-23.08.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=dev-python/cffi-1.16.0 python_targets_python3_10
+# required by media-video/mpv-0.36.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-video/ffmpeg-6.0-r10 vaapi vdpau
+# required by dev-python/urllib3-2.0.7::gentoo[zstd]
+# required by app-admin/system-config-printer-1.5.18-r1::gentoo[python_single_target_python3_11]
+# required by kde-apps/print-manager-23.08.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=dev-python/zstandard-0.22.0 python_targets_python3_10

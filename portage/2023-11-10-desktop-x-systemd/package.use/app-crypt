@@ -1,0 +1,2 @@
+app-crypt/pinentry keyring qt5 ncurses X caps verify-sig
+app-crypt/gnupg bzip2 nls readline smartcard ssl tofu tools tpm usb user-socket verify-sig wks-server

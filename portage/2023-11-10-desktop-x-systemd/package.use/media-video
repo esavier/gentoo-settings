@@ -1,0 +1,2 @@
+media-video/mpv nvenc openal opengl sdl sndio vaapi vdpau xv
+media-video/ffmpeg amr fontconfig libv4l libsoxr nvenc openal opengl sdl svg theora truetype v4l vorbis x264 x265 xvid  zimg 
